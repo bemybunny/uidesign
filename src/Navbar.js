@@ -26,7 +26,7 @@ function Navbar() {
             <p>UI Designer</p>
           </div>
           <div class="ava">
-          <img src="ava.jpg" alt=""/>
+          <img src="./uidesign/ava.jpg" alt=""/>
         </div>
       </div>
     </div>

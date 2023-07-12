@@ -15,10 +15,10 @@ function Home() {
       <span class="pro"> Profile</span></div></div>
       <div class="container">
         <div class="back">
-          <img src="background.jpg" alt =""/>
+          <img src="./uidesign/background.jpg" alt =""/>
         </div>
         <div class="avatar">
-          <img src="avatar.jpg" alt="" />
+          <img src="./uidesign/avatar.jpg" alt="" />
         </div>
         <div class="camera">
           {" "}
