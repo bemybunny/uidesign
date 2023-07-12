@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/uidesign/static/css/main.15971f7f.css",
+    "main.js": "/uidesign/static/js/main.c4e6c90b.js",
+    "static/js/787.f7d4efb5.chunk.js": "/uidesign/static/js/787.f7d4efb5.chunk.js",
+    "index.html": "/uidesign/index.html",
+    "main.15971f7f.css.map": "/uidesign/static/css/main.15971f7f.css.map",
+    "main.c4e6c90b.js.map": "/uidesign/static/js/main.c4e6c90b.js.map",
+    "787.f7d4efb5.chunk.js.map": "/uidesign/static/js/787.f7d4efb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15971f7f.css",
+    "static/js/main.c4e6c90b.js"
+  ]
+}
