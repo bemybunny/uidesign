@@ -8,17 +8,20 @@ import GitHubIcon from "@mui/icons-material/GitHub";
 
 function Home() {
   return (
-    <div class="Home"><div class="com">
-      <span class="profile">Profile</span>
-      <div>
-      <span >Dashboard / </span>
-      <span class="pro"> Profile</span></div></div>
+    <div class="Home">
+      <div class="com">
+        <span class="profile">Profile</span>
+        <div>
+          <span>Dashboard / </span>
+          <span class="pro"> Profile</span>
+        </div>
+      </div>
       <div class="container">
         <div class="back">
-          <img src="./UIDESIGN/background.jpg" alt =""/>
+          <img src="./background.jpg" alt="" />
         </div>
         <div class="avatar">
-          <img src="./UIDESIGN/avatar.jpg" alt="" />
+          <img src="./avatar.jpg" alt="" />
         </div>
         <div class="camera">
           {" "}
