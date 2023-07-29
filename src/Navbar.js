@@ -22,7 +22,7 @@ function Navbar() {
           <ChatIcon/>
           </div>
           <div class ="para">
-            <p>Thomas Anree</p>
+            <p>Leena Gupta</p>
             <p>UI Designer</p>
           </div>
           <div class="ava">

@@ -21,7 +21,7 @@ function Home() {
           <img src="./background.jpg" alt="" />
         </div>
         <div class="avatar">
-          <img src="./avatar.jpg" alt="" />
+          <img src="./avatar.jpeg" alt="" />
         </div>
         <div class="camera">
           {" "}
@@ -55,9 +55,8 @@ function Home() {
         </div>
         <span class="l">About Me</span>
         <p class="p">
-          Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in
-          laying out print, graphic or web designs. The passage is attributed to
-          an unknown typesetter in the 15th century who is her .{" "}
+          Hello everyone to visit my website , my name is Leena Gupta and i am currently 19 year old .
+          My hobbies are playing Table Tennis and learn in the field of Tech.{" "}
         </p>
         <span>Follow me on</span>
         <div class="follow">
